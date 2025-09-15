@@ -1,6 +1,7 @@
 venv/
 .things.db
 __pycache__/
+.pytest_cache
 *.pyc
 *.pyo
 
