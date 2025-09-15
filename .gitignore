@@ -1,0 +1,9 @@
+venv/
+.things.db
+__pycache__/
+*.pyc
+*.pyo
+
+# Настройки IDE
+.vscode/
+.idea
